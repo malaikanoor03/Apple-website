@@ -52,7 +52,7 @@ a:hover .globalnav-image-regular svg path {
 }
 
 .iphone-15{
- background-image: url('/Apple-sec-img/image-1.jpg');
+ background-image: url('./Apple-sec-img/image-1.jpg');
  background-size: cover; 
  background-position: center; 
  background-repeat: no-repeat;
